@@ -26,3 +26,11 @@ The loop stops early when the count reaches 5 using the `break` statement.
 8
 7
 6
+
+## 4. Day of the Week Menu Using Switch
+This program takes a number (1–7) as input and prints a message based on the day of the week using a `switch` statement.
+
+### Example:
+Input: `3`  
+Output: `Wednesday - Midweek motivation!`
+
