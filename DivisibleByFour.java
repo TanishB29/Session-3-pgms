@@ -1,3 +1,6 @@
+Print numbers from 1 to 20, but skip numbers divisible by 4 using continue. 
+
+
 import java.util.Scanner;
 
 public class DivisibleByFour{
