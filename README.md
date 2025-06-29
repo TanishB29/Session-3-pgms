@@ -34,3 +34,10 @@ This program takes a number (1–7) as input and prints a message based on the d
 Input: `3`  
 Output: `Wednesday - Midweek motivation!`
 
+## 5. Numbers Divisible by 15 and Their Count
+This program prints all numbers between 1 and 100 that are divisible by 15.
+It also displays the total count of such numbers.
+
+### Output:
+
+
