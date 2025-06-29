@@ -38,6 +38,10 @@ Output: `Wednesday - Midweek motivation!`
 This program prints all numbers between 1 and 100 that are divisible by 15.
 It also displays the total count of such numbers.
 
-### Output:
+## 6. Factorial Using While Loop
+This program calculates the factorial of a given number using a `while` loop.
+The user inputs a number `n`, and the program computes `n!`.
 
-
+### Example:
+Input: `5`  
+Output: `Factorial of 5 is = 120`
