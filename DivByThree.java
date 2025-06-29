@@ -1,3 +1,5 @@
+Write a for loop that prints all numbers divisible by 3 between 1 and 30. 
+
 import java.util.Scanner;
 
 public class DivByThree {
