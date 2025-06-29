@@ -15,3 +15,14 @@ How to Run
 Save as DivisibleByFour.java
 Compile: javac DivisibleByFour.java
 Run: java DivisibleByFour
+
+## 3. Countdown with While Loop and Break
+This program simulates a countdown from 10 to 1 using a `while` loop.
+The loop stops early when the count reaches 5 using the `break` statement.
+
+### Output:
+10
+9
+8
+7
+6
