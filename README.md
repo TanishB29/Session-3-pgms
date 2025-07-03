@@ -71,3 +71,13 @@ This program uses a `for` loop to find and print all perfect square numbers betw
 64
 81
 100
+
+## 9. Triangle Pattern Using Nested Loops
+This program prints a right-angled triangle of `*` using nested `for` loops.
+
+### Output:
+*
+**
+***
+****
+*****
