@@ -57,6 +57,17 @@ Enter a number: 20
 Enter a number: 28
 Good! 28 is a multiple of 7.
 
-Copy
-Edit
+## 8. Perfect Squares from 1 to 100
+This program uses a `for` loop to find and print all perfect square numbers between 1 and 100.
 
+### Output:
+1
+4
+9
+16
+25
+36
+49
+64
+81
+100
