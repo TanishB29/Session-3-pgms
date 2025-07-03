@@ -45,3 +45,18 @@ The user inputs a number `n`, and the program computes `n!`.
 ### Example:
 Input: `5`  
 Output: `Factorial of 5 is = 120`
+
+## 7. Prompt Until Multiple of 7
+This program keeps asking the user to enter a number until they enter one that is divisible by 7. It uses a `while(true)` loop and exits using `break`.
+
+### Example:
+Enter a number: 11
+11 is not a multiple of 7. Try again!
+Enter a number: 20
+20 is not a multiple of 7. Try again!
+Enter a number: 28
+Good! 28 is a multiple of 7.
+
+Copy
+Edit
+
