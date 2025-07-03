@@ -81,3 +81,12 @@ This program prints a right-angled triangle of `*` using nested `for` loops.
 ***
 ****
 *****
+
+## 10. Simple Login System with 3 Attempts
+This program lets the user try entering a password up to 3 times. If the correct password (`1234`) is entered, it prints "Access Granted!" and exits using `break`.
+
+### Example:
+Enter password: abc
+Wrong password. Attempts left: 2
+Enter password: 1234
+Access Granted!
